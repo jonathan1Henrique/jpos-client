@@ -1,2 +1,2 @@
-# jpos-client
-this is a project of study.
+## Jpos-client
+This is a project of study.
